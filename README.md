@@ -14,5 +14,8 @@ Contar usuarios
 <img width="406" height="228" alt="image" src="https://github.com/user-attachments/assets/0cade490-965b-4fee-8903-2053b2265b5a" />
 salir
 <img width="437" height="106" alt="image" src="https://github.com/user-attachments/assets/546a6964-6285-4a58-958a-3f46196f9e7c" />
+base de datos
+<img width="1887" height="947" alt="image" src="https://github.com/user-attachments/assets/8193569e-c0a3-446b-81c1-8d8998adcdd1" />
+<img width="1878" height="824" alt="image" src="https://github.com/user-attachments/assets/14187caa-5798-4b7f-adb1-c970c272d622" />
 
 
