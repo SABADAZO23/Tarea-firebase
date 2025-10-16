@@ -2,7 +2,7 @@ from user_service import UserService
 
 def mostrar_menu():
     print("\n" + "="*50)
-    print("🎮 CRUD INTERACTIVO - TÚ CONTROLAS")
+    print("🎮 CRUD")
     print("="*50)
     print("1. 📝 CREAR usuario")
     print("2. 👀 VER todos los usuarios") 
@@ -16,7 +16,7 @@ def mostrar_menu():
 def main():
     usuarios = UserService()
     
-    print("🚀 BIENVENIDO AL CRUD INTERACTIVO")
+    print("🚀 BIENVENIDO")
     print("💡 Tú decides qué hacer en cada momento")
     
     while True:
@@ -128,4 +128,5 @@ def main():
         input("\n⏎ Presiona Enter para continuar...")
 
 if __name__ == "__main__":
+
     main()
